@@ -1,0 +1,12 @@
+C:\Users\yr\Desktop\SPP-L2\FakerLib\bin\Debug\net6.0\FakerLib.deps.json
+C:\Users\yr\Desktop\SPP-L2\FakerLib\bin\Debug\net6.0\FakerLib.dll
+C:\Users\yr\Desktop\SPP-L2\FakerLib\bin\Debug\net6.0\FakerLib.pdb
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\FakerLib.csproj.AssemblyReference.cache
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\FakerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\FakerLib.AssemblyInfoInputs.cache
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\FakerLib.AssemblyInfo.cs
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\FakerLib.csproj.CoreCompileInputs.cache
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\FakerLib.dll
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\refint\FakerLib.dll
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\FakerLib.pdb
+C:\Users\yr\Desktop\SPP-L2\FakerLib\obj\Debug\net6.0\ref\FakerLib.dll

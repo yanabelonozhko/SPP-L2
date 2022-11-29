@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BoolGenerator/1.0.0": {
+        "dependencies": {
+          "FakerLib": "1.0.0"
+        },
+        "runtime": {
+          "BoolGenerator.dll": {}
+        }
+      },
+      "FakerLib/1.0.0": {
+        "runtime": {
+          "FakerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoolGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FakerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
